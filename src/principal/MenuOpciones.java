@@ -28,6 +28,7 @@ public class MenuOpciones {
     public void menu() throws Exception {
         String respuesta;
         do {
+            System.out.println("SEGUNDO EJEMPLO GIT-HUB");
             System.out.println("EJEMPLO PARA GIT-HUB");
             System.out.println("Seleccione la opción:");
             System.out.println("=====================================");
